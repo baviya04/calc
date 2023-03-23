@@ -4,6 +4,7 @@ public class CalculatorAdd {
 
     //int a=6;
     //int b=8;
+    //int c=8;
     int c;
     public static void main(String args[])
     {
